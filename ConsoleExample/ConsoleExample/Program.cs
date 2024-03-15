@@ -61,6 +61,9 @@ public class Program
         //SortedDictionary
         
         Console.WriteLine(yourName);
+
+        int code = 0101001;
+        Console.WriteLine(code);
         Console.WriteLine("Hello, World!");
     }
 }
